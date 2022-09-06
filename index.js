@@ -1,4 +1,4 @@
-<script src="https://smtpjs.com/v3/smtp.js"></script>
+{/* <script src="https://smtpjs.com/v3/smtp.js"></script>
 
 function sendEmail() {
     Email.send({
@@ -17,4 +17,4 @@ function sendEmail() {
     }).then(
         message => alert("mail sent successfully")
     );
-  }
+  } */}
