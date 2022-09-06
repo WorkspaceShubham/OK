@@ -3,9 +3,9 @@
 function sendEmail() {
     Email.send({
     Host: "smtp.gmail.com",
-    Username : "",
-    Password : "Your Gmail Password",
-    To : 'recipient’s email address',
+    Username : "workspace.shubham88@gmail.com",
+    Password : "Annaaai@8334",
+    To : 'shubhamadawale2210@gmail.com',
     From : "sender’s email address",
     Subject : "email subject",
     Body : "email body",
